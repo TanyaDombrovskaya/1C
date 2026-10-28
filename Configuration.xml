@@ -123,6 +123,7 @@
 			<Catalog>Подразделения</Catalog>
 			<Catalog>Должности</Catalog>
 			<Document>КадровоеПеремещениеСотрудника</Document>
+			<Document>ПриемНаРаботу</Document>
 			<InformationRegister>КадровыеПеремещения</InformationRegister>
 		</ChildObjects>
 	</Configuration>
